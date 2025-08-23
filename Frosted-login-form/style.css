@@ -139,7 +139,7 @@ form label {
   font-family: "Poppins", sans-serif;
 }
 /* responsive settings */
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .login-box {
     width: 90%;
     padding: 20px;
