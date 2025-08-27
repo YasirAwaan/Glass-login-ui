@@ -19,4 +19,7 @@ A modern and stylish **Login Form** built using **HTML, CSS, and a bit of JavaSc
 - **CSS3** (with glassmorphism + gradients)  
 - **JavaScript** (for password toggle)  
 
-## 📂 Project Structure
+## 📂 How to Use
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/YasirAwaan/Glass-login-ui.git
